@@ -1,1 +1,1 @@
-﻿# CardanoDemoProject with typeScript and MVC structure
+﻿# Cardano Project with BlockFrost and payment webhook implementation
